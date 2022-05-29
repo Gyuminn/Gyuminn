@@ -3,6 +3,7 @@
 ## KimGyuMin
 
 > 2015 ~ Hanyang University
+> 
 > 2021 ~ SOPT 29th web & 30th president
 
 
