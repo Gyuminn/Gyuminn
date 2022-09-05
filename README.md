@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Thanks%20for%20visiting&fontSize=50&animation=fadeIn)
-
 ## KimGyuMin
 
 - 2015 ~ Hanyang University 
