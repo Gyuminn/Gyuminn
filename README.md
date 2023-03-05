@@ -1,4 +1,4 @@
-## About Me
+### About Me
 
 - `2015.02 - 2023.02` Hanyang Univ, Seoul (Earth Resources and Environmental Engineering / School of Electronic Engineering)
 - `2021.09 - 2022.01` IT 벤처 창업동아리 SOPT 29th Web Part
@@ -21,9 +21,16 @@
 ![Docker badge](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=for-the-badge)
 ![Kubernetes badge](https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes&logoColor=white&style=for-the-badge)
 
-
+---
 **Stats**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyuminn&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
+---
+**Projects**
+- [진짜 독서가들을 위한 독서법 '북스테어즈'](https://github.com/TeamBookTez/booktez-client)\
+  SOPT 29기 장기 해커톤 '앱잼' 최우수상 - 프론트엔드 개발
+- [메뉴 취합 웹 서비스 '코잇'](https://github.com/CO-EAT/CO-EAT-CLIENT)\
+  SOPT 29기 무박 2일 해커톤 '솝커톤' 최우수상 - 프론트엔드 개발
+- [velog clone project](https://github.com/Gyuminn/velog-clone-project)\
+  개인 토이 프로젝트 - 백엔드 개발
