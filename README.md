@@ -30,7 +30,7 @@
 **Projects**
 - [날씨, 미세먼지 기반 관광지 추천 서비스 'WeatherWhere'](https://github.com/WeatherWhere)\
   카카오 클라우드 스쿨 2기 프로젝트 - 백엔드 개발
-- [velog clone project](https://github.com/Gyuminn/velog-clone-project)\
+- [Velog Clone Project](https://github.com/Gyuminn/velog-clone-project)\
   개인 토이 프로젝트 - 백엔드 개발
 - [진짜 독서가들을 위한 독서법 '북스테어즈'](https://github.com/TeamBookTez/booktez-client)\
   SOPT 29기 장기 해커톤 '앱잼' 최우수상 - 프론트엔드 개발
