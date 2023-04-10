@@ -1,6 +1,6 @@
 ### About Me
 
-- `2015.02 - 2023.02` Hanyang Univ, Seoul (Earth Resources and Environmental Engineering / School of Electronic Engineering)
+- `2015.02 - 2023.02` Hanyang Univ, Seoul (EREE / Electronic Engineering)
 - `2021.09 - 2022.01` IT 벤처 창업동아리 SOPT 29th Web Part
 - `2022.02 - 2022.07` IT 벤처 창업동아리 SOPT 30th President
 - `2022.10 - 2023.05` Kakao Cloud School
